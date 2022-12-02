@@ -1,0 +1,15 @@
+C:\Users\antonio\Documents\Projetos\C#\curso-tipos-de-operadores-em-c-sharp\aula-1-introducao-operador-de-atribuicao\bin\Debug\net7.0\aula-1-introducao-operador-de-atribuicao.exe
+C:\Users\antonio\Documents\Projetos\C#\curso-tipos-de-operadores-em-c-sharp\aula-1-introducao-operador-de-atribuicao\bin\Debug\net7.0\aula-1-introducao-operador-de-atribuicao.deps.json
+C:\Users\antonio\Documents\Projetos\C#\curso-tipos-de-operadores-em-c-sharp\aula-1-introducao-operador-de-atribuicao\bin\Debug\net7.0\aula-1-introducao-operador-de-atribuicao.runtimeconfig.json
+C:\Users\antonio\Documents\Projetos\C#\curso-tipos-de-operadores-em-c-sharp\aula-1-introducao-operador-de-atribuicao\bin\Debug\net7.0\aula-1-introducao-operador-de-atribuicao.dll
+C:\Users\antonio\Documents\Projetos\C#\curso-tipos-de-operadores-em-c-sharp\aula-1-introducao-operador-de-atribuicao\bin\Debug\net7.0\aula-1-introducao-operador-de-atribuicao.pdb
+C:\Users\antonio\Documents\Projetos\C#\curso-tipos-de-operadores-em-c-sharp\aula-1-introducao-operador-de-atribuicao\obj\Debug\net7.0\aula-1-introducao-operador-de-atribuicao.csproj.AssemblyReference.cache
+C:\Users\antonio\Documents\Projetos\C#\curso-tipos-de-operadores-em-c-sharp\aula-1-introducao-operador-de-atribuicao\obj\Debug\net7.0\aula-1-introducao-operador-de-atribuicao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\antonio\Documents\Projetos\C#\curso-tipos-de-operadores-em-c-sharp\aula-1-introducao-operador-de-atribuicao\obj\Debug\net7.0\aula-1-introducao-operador-de-atribuicao.AssemblyInfoInputs.cache
+C:\Users\antonio\Documents\Projetos\C#\curso-tipos-de-operadores-em-c-sharp\aula-1-introducao-operador-de-atribuicao\obj\Debug\net7.0\aula-1-introducao-operador-de-atribuicao.AssemblyInfo.cs
+C:\Users\antonio\Documents\Projetos\C#\curso-tipos-de-operadores-em-c-sharp\aula-1-introducao-operador-de-atribuicao\obj\Debug\net7.0\aula-1-introducao-operador-de-atribuicao.csproj.CoreCompileInputs.cache
+C:\Users\antonio\Documents\Projetos\C#\curso-tipos-de-operadores-em-c-sharp\aula-1-introducao-operador-de-atribuicao\obj\Debug\net7.0\aula-1-introducao-operador-de-atribuicao.dll
+C:\Users\antonio\Documents\Projetos\C#\curso-tipos-de-operadores-em-c-sharp\aula-1-introducao-operador-de-atribuicao\obj\Debug\net7.0\refint\aula-1-introducao-operador-de-atribuicao.dll
+C:\Users\antonio\Documents\Projetos\C#\curso-tipos-de-operadores-em-c-sharp\aula-1-introducao-operador-de-atribuicao\obj\Debug\net7.0\aula-1-introducao-operador-de-atribuicao.pdb
+C:\Users\antonio\Documents\Projetos\C#\curso-tipos-de-operadores-em-c-sharp\aula-1-introducao-operador-de-atribuicao\obj\Debug\net7.0\aula-1-introducao-operador-de-atribuicao.genruntimeconfig.cache
+C:\Users\antonio\Documents\Projetos\C#\curso-tipos-de-operadores-em-c-sharp\aula-1-introducao-operador-de-atribuicao\obj\Debug\net7.0\ref\aula-1-introducao-operador-de-atribuicao.dll

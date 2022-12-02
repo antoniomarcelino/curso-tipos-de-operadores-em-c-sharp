@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\antonio\\Documents\\Projetos\\C#\\curso-tipos-de-operadores-em-c-sharp\\curso-tipos-de-operadores-em-c-sharp.csproj",
-      "projectName": "curso-tipos-de-operadores-em-c-sharp",
-      "projectPath": "C:\\Users\\antonio\\Documents\\Projetos\\C#\\curso-tipos-de-operadores-em-c-sharp\\curso-tipos-de-operadores-em-c-sharp.csproj",
+      "projectUniqueName": "C:\\Users\\antonio\\Documents\\Projetos\\C#\\curso-tipos-de-operadores-em-c-sharp\\aula-1-introducao-operador-de-atribuicao\\aula-1-introducao-operador-de-atribuicao.csproj",
+      "projectName": "aula-1-introducao-operador-de-atribuicao",
+      "projectPath": "C:\\Users\\antonio\\Documents\\Projetos\\C#\\curso-tipos-de-operadores-em-c-sharp\\aula-1-introducao-operador-de-atribuicao\\aula-1-introducao-operador-de-atribuicao.csproj",
       "packagesPath": "C:\\Users\\antonio\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\antonio\\Documents\\Projetos\\C#\\curso-tipos-de-operadores-em-c-sharp\\obj\\",
+      "outputPath": "C:\\Users\\antonio\\Documents\\Projetos\\C#\\curso-tipos-de-operadores-em-c-sharp\\aula-1-introducao-operador-de-atribuicao\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\antonio\\AppData\\Roaming\\NuGet\\NuGet.Config",
