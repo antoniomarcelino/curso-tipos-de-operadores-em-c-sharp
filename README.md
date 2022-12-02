@@ -10,6 +10,7 @@
 Esse curso é uma parte do bootcamp [Pottencial](https://pottencial.com.br) .NET Developer ministrado pelo prof. [Leonardo Buta](https://www.linkedin.com/in/leonardo-buta/) oferecido pela [Digital Innovation One](https://www.dio.me).
 
 **Aulas**
+
 **1. Operadores de Atribuição**
    1. Introdução operador de atribuição
    2. Combinando operadores
