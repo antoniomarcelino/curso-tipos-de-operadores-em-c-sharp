@@ -1,5 +1,19 @@
 ﻿using System;
 
+bool choveu = true;
+bool estaTarde = true;
+
+if(!choveu && !estaTarde)
+{
+Console.WriteLine("Vou pedalar");
+}
+else
+{
+Console.WriteLine("Vou pedalar um outro dia.");
+}
+
+
+/*
 bool possuiPresencaMinima = true;
 double media = 7.5;
 
@@ -13,7 +27,6 @@ else
 }
 
 
-/*
 bool ehMaiorDeIdade = true;
 bool possuiAutorizacaoDoResponsavel = false;
 
