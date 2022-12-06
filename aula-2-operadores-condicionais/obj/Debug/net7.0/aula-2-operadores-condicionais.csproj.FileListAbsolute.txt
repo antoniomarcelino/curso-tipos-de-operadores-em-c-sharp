@@ -1,0 +1,15 @@
+C:\Users\antonio\Documents\Projetos\C#\curso-tipos-de-operadores-em-c-sharp\aula-2-operadores-condicionais\bin\Debug\net7.0\aula-2-operadores-condicionais.exe
+C:\Users\antonio\Documents\Projetos\C#\curso-tipos-de-operadores-em-c-sharp\aula-2-operadores-condicionais\bin\Debug\net7.0\aula-2-operadores-condicionais.deps.json
+C:\Users\antonio\Documents\Projetos\C#\curso-tipos-de-operadores-em-c-sharp\aula-2-operadores-condicionais\bin\Debug\net7.0\aula-2-operadores-condicionais.runtimeconfig.json
+C:\Users\antonio\Documents\Projetos\C#\curso-tipos-de-operadores-em-c-sharp\aula-2-operadores-condicionais\bin\Debug\net7.0\aula-2-operadores-condicionais.dll
+C:\Users\antonio\Documents\Projetos\C#\curso-tipos-de-operadores-em-c-sharp\aula-2-operadores-condicionais\bin\Debug\net7.0\aula-2-operadores-condicionais.pdb
+C:\Users\antonio\Documents\Projetos\C#\curso-tipos-de-operadores-em-c-sharp\aula-2-operadores-condicionais\obj\Debug\net7.0\aula-2-operadores-condicionais.csproj.AssemblyReference.cache
+C:\Users\antonio\Documents\Projetos\C#\curso-tipos-de-operadores-em-c-sharp\aula-2-operadores-condicionais\obj\Debug\net7.0\aula-2-operadores-condicionais.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\antonio\Documents\Projetos\C#\curso-tipos-de-operadores-em-c-sharp\aula-2-operadores-condicionais\obj\Debug\net7.0\aula-2-operadores-condicionais.AssemblyInfoInputs.cache
+C:\Users\antonio\Documents\Projetos\C#\curso-tipos-de-operadores-em-c-sharp\aula-2-operadores-condicionais\obj\Debug\net7.0\aula-2-operadores-condicionais.AssemblyInfo.cs
+C:\Users\antonio\Documents\Projetos\C#\curso-tipos-de-operadores-em-c-sharp\aula-2-operadores-condicionais\obj\Debug\net7.0\aula-2-operadores-condicionais.csproj.CoreCompileInputs.cache
+C:\Users\antonio\Documents\Projetos\C#\curso-tipos-de-operadores-em-c-sharp\aula-2-operadores-condicionais\obj\Debug\net7.0\aula-2-operadores-condicionais.dll
+C:\Users\antonio\Documents\Projetos\C#\curso-tipos-de-operadores-em-c-sharp\aula-2-operadores-condicionais\obj\Debug\net7.0\refint\aula-2-operadores-condicionais.dll
+C:\Users\antonio\Documents\Projetos\C#\curso-tipos-de-operadores-em-c-sharp\aula-2-operadores-condicionais\obj\Debug\net7.0\aula-2-operadores-condicionais.pdb
+C:\Users\antonio\Documents\Projetos\C#\curso-tipos-de-operadores-em-c-sharp\aula-2-operadores-condicionais\obj\Debug\net7.0\aula-2-operadores-condicionais.genruntimeconfig.cache
+C:\Users\antonio\Documents\Projetos\C#\curso-tipos-de-operadores-em-c-sharp\aula-2-operadores-condicionais\obj\Debug\net7.0\ref\aula-2-operadores-condicionais.dll
