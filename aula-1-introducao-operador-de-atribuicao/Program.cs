@@ -1,10 +1,19 @@
 ﻿using System;
 
+// int a = 5;
+// double b = a;
+// long a = long.MaxValue;
+// int b = Convert.ToInt32(a);
+int a = int.MaxValue;
+long b = a;
+Console.WriteLine(b);
+
+
+/*
 int inteiro = 5;
 string a = inteiro.ToString();
 Console.WriteLine(a);
 
-/*
 int a = Convert.ToInt32(null); //0
 int a = int.Parse(null); //Value cannot be null
 Console.WriteLine(a);
