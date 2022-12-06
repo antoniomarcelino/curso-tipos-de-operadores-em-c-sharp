@@ -1,11 +1,14 @@
 ﻿using System;
 
-int a = Convert.ToInt32(null); //0
-// int a = int.Parse(null); //Value cannot be null
+int inteiro = 5;
+string a = inteiro.ToString();
 Console.WriteLine(a);
 
-
 /*
+int a = Convert.ToInt32(null); //0
+int a = int.Parse(null); //Value cannot be null
+Console.WriteLine(a);
+
 int a = Convert.ToInt32("5");
 int a = int.Parse("5i");
 
